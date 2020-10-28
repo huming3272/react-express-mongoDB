@@ -15,4 +15,4 @@ axios.interceptors.response.use(function (config) {
     Toast.hide()
   
   return config
-})
+}) 
